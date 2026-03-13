@@ -1,11 +1,5 @@
-# Learning log
+# Day 2 — Files & Folders Cheat Sheet
 
-## Day 1
-- Installed/verified: terminal, Git, (WSL2 if Windows)
-- Created repository skeleton
-- Next: Linux filesystem commands (Day 2)
-
-## Day 2
 ## Navigation
 - pwd — show current directory
 - ls / ls -la — list files (including hidden)
