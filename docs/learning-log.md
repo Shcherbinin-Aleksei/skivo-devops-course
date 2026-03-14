@@ -25,3 +25,6 @@
 
 ## Day 4
 Edited configs with nano + vi (basic).
+
+## Day 5
+Permissions done 
