@@ -28,3 +28,15 @@ Edited configs with nano + vi (basic).
 
 ## Day 5
 Permissions done 
+
+##Day 6 — Package Management (APT) Notes
+1) Update package index:
+   sudo apt update
+2) Upgrade installed packages:
+   sudo apt upgrade
+3) Install:
+   sudo apt install -y <pkg>
+4) Search / Inspect:
+   apt search <term>
+   apt show <pkg>
+   apt-cache policy <pkg>
