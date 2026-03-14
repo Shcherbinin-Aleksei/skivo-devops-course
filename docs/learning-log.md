@@ -22,3 +22,6 @@
 - cp src dst — copy
 - mv src dst — move/rename
 - rm file — delete file (no trash)
+
+## Day 4
+Edited configs with nano + vi (basic).
