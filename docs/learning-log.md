@@ -29,7 +29,7 @@ Edited configs with nano + vi (basic).
 ## Day 5
 Permissions done 
 
-##Day 6 — Package Management (APT) Notes
+## Day 6 — Package Management (APT) Notes
 1) Update package index:
    sudo apt update
 2) Upgrade installed packages:
@@ -40,3 +40,4 @@ Permissions done
    apt search <term>
    apt show <pkg>
    apt-cache policy <pkg>
+## Day 7 — “Week 1 wrap-up done”
